@@ -1,4 +1,4 @@
-#### Deepesh Kanojiya Social Profiles
+#### Profiles
 <a href="https://www.facebook.com/geturdep/">
   <img align="left" alt="Deepesh's Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" />
 </a>
